@@ -1,0 +1,11 @@
+X:\FrisbyTest\bin\Debug\FrisbyTest.exe.config
+X:\FrisbyTest\bin\Debug\FrisbyTest.exe
+X:\FrisbyTest\bin\Debug\FrisbyTest.pdb
+X:\FrisbyTest\obj\Debug\FrisbyTest.csprojAssemblyReference.cache
+X:\FrisbyTest\obj\Debug\FrisbyTest.EmployeesList.resources
+X:\FrisbyTest\obj\Debug\FrisbyTest.Properties.Resources.resources
+X:\FrisbyTest\obj\Debug\FrisbyTest.csproj.GenerateResource.cache
+X:\FrisbyTest\obj\Debug\FrisbyTest.csproj.CoreCompileInputs.cache
+X:\FrisbyTest\obj\Debug\FrisbyTest.exe
+X:\FrisbyTest\obj\Debug\FrisbyTest.pdb
+X:\FrisbyTest\obj\Debug\FrisbyTest.AddNewEmployee.resources
